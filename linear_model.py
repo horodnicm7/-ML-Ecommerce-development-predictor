@@ -66,16 +66,3 @@ plt.xlabel('Length of Membership')
 plt.ylabel('Yearly Amount Spent')
 fig.legend(loc='upper left')
 plt.show()
-
-
-
-
-
-
-
-
-
-
-
-
-
